@@ -17,3 +17,12 @@
 <h3>Installation</h3>
 <h5>1. Clone the repository</h5>
 <p>git clone: https://github.com/NabilRaiyan/Monster-rolodex.git</p>
+<h5>2. Navigate to the project directory</h5>
+<h5>3. Install dependencies</h5>
+<p>npm install</p>
+<h5>Start the development server</h5>
+<p>npm start</p>
+
+<h5>Open your browser and go to http://localhost:3000 to view the Monster Rolodex.</h5>
+
+<h3>Screenshots</h3>
