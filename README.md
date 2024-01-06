@@ -13,14 +13,15 @@ Monster Rolodex is a React.js project that showcases a collection of monsters fe
  1. Node.js
  2. npm (Node Package Manager)
 
-<h3>Installation</h3>
-<h5>1. Clone the repository</h5>
-<p>git clone: https://github.com/NabilRaiyan/Monster-rolodex.git</p>
-<h5>2. Navigate to the project directory</h5>
-<h5>3. Install dependencies</h5>
-<p>npm install</p>
-<h5>Start the development server</h5>
-<p>npm start</p>
+### Installation
+  1. Clone the repository
+  ``` bash
+  git clone: https://github.com/NabilRaiyan/Monster-rolodex.git
+  3. Navigate to the project directory
+  4. Install dependencies
+     - npm install
+     - Start the development server
+     - npm start
 
 <h5>Open your browser and go to http://localhost:3000 to view the Monster Rolodex.</h5>
 
