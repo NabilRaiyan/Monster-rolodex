@@ -24,6 +24,6 @@ Monster Rolodex is a React.js project that showcases a collection of monsters fe
      - Start the development server
      - npm start
 
-<h5>Open your browser and go to http://localhost:3000 to view the Monster Rolodex.</h5>
+  5. Open your browser and go to http://localhost:3000 to view the Monster Rolodex.
 
 <h3>Screenshots</h3>
