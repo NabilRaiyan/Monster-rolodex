@@ -8,10 +8,10 @@ Monster Rolodex is a React.js project that showcases a collection of monsters fe
 - Responsive Design: Enjoy a user-friendly interface that adapts to different screen sizes.
 
 
-<h3>Getting Started</h3>
-<h5>Prerequisites</h5>
-<p>1. Node.js</p>
-<p>2. npm (Node Package Manager)</p>
+## Getting Started
+### Prerequisites
+1. Node.js
+2. npm (Node Package Manager)
 
 <h3>Installation</h3>
 <h5>1. Clone the repository</h5>
