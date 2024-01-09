@@ -4,7 +4,6 @@ import CardList from './components/card-list/card-list.component';
 import SearchBox from './components/search-box/search-box.component';
 
 
-
 // functional component
 const App = () => 
 {
