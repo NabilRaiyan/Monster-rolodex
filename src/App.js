@@ -5,7 +5,8 @@ import SearchBox from './components/search-box/search-box.component';
 
 
 // functional component
-const App = () => {
+const App = () => 
+{
   return(
     <h1 className='app-title'>Monster Rolodex</h1>
     //<SearchBox searchChangeHandler = {onSearchChange} placeholder = {"Search Monster"} className = {'monster-search-box'} type = {'search'}/>
