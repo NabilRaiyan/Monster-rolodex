@@ -17,7 +17,7 @@ const App = () =>
  
 // // class component
 // class App extends Component{
-//   // run 1st
+//   // run 1st 
 //   constructor(){
 //     super();
 //     this.state = {
