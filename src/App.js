@@ -12,7 +12,7 @@ const App = () => {
     //<CardList monsters = {filteredMonsters}/>
   )
 }
-
+ 
 // // class component
 // class App extends Component{
 //   // run 1st
