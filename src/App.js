@@ -20,6 +20,12 @@ const App = () =>
      const filteredMonsters = monsters.filter((monster)=>{
       return monster.name.toLowerCase().includes(searchField);
     });
+  
+    useEffect (()=>{
+      fetch('https://jsonplaceholder.typicode.com/users')
+      .then((response) => response.json())
+      .then((users) => setMonsters(users))
+  }, [])
 
 
   return(
