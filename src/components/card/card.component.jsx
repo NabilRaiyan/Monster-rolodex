@@ -16,7 +16,6 @@ import './card.style.css';
 // }
 
 
-
 // functional component
 const Card = ({monster}) => {
     const { id, name, email} = monster;
