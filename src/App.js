@@ -1,4 +1,5 @@
-import { Component } from 'react';
+//import { Component } from 'react';
+import { useState } from 'react';
 import './App.css';
 import CardList from './components/card-list/card-list.component';
 import SearchBox from './components/search-box/search-box.component';
@@ -7,10 +8,20 @@ import SearchBox from './components/search-box/search-box.component';
 // functional component
 const App = () => 
 {
+
+  const [searchField, setSearchField] = useState('');
+
+  const onSearchChange = (event)=>{
+      const searchFieldString = event.target.value.toLowerCase();  
+      setSearchField(searchFieldString);
+     }
   return(
-    <h1 className='app-title'>Monster Rolodex</h1>
-    //<SearchBox searchChangeHandler = {onSearchChange} placeholder = {"Search Monster"} className = {'monster-search-box'} type = {'search'}/>
-    //<CardList monsters = {filteredMonsters}/>
+    <div>
+        <h1 className='app-title'>Monster Rolodex</h1>
+        <SearchBox searchChangeHandler = {onSearchChange} placeholder = {"Search Monster"} className = {'monster-search-box'} type = {'search'}/>
+        {/* <CardList monsters = {filteredMonsters}/> */}
+    </div>
+    
   )
 }
  
