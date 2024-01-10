@@ -36,9 +36,6 @@ const App = () =>
     </div>
     
   )
-
-     
-
 }
  
 // // class component
