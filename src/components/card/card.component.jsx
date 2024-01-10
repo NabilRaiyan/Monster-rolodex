@@ -1,4 +1,4 @@
-import { Component } from "react";
+//import { Component } from "react";
 import './card.style.css';
 
 // class component
