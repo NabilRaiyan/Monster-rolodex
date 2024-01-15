@@ -5,7 +5,7 @@ Monster Rolodex is a React.js project that showcases a collection of monsters fe
 ## Features
 - Dynamic Monster Display: Render a collection of monsters dynamically from an external API.
 - Search Functionality: Easily search for monsters by their names using the search bar.
-- Responsive Design: Enjoy a user-friendly interface that adapts to different screen sizes. 
+- Responsive Design: Enjoy a user-friendly interface that adapts to different screen sizes.
 
 
 ## Getting Started
