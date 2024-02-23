@@ -7,6 +7,7 @@ Monster Rolodex is a React.js project that showcases a collection of monsters fe
 - Search Functionality: Easily search for monsters by their names using the search bar.
 - Responsive Design: Enjoy a user-friendly interface that adapts to different screen sizes.
 
+
 ## Getting Started
 ### Prerequisites
  1. Node.js
